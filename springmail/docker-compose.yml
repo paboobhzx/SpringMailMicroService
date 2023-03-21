@@ -1,6 +1,6 @@
 services:
   db:
-    container_name: postgres
+    container_name: portfolioprojects
     image: postgres
     environment:
       POSTGRES_USER: pablobhz
